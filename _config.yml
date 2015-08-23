@@ -1,8 +1,8 @@
 #
 # Basic settings.
 #
-#url: http://qckanemoto.github.io # or http://you.github.io
-url: http://localhost:4000
+url: http://huster-zhangpeng.github.io # or http://you.github.io
+# url: http://localhost:4000
 baseurl: ""
 title: 北海flash的博客
 description: 进道若退，明道若昧
