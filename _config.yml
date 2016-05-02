@@ -80,6 +80,7 @@ ogp:
 #
 gems:
   - jemoji
+  - jekyll-paginate
 
 #
 # Styles: see "_sass/base/_variables.scss"
